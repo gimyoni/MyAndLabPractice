@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAndLab</string>
+    <string name="btnFourbtn1">Four Button(p103)</string>
+    <string name="btnFourbtn2">Four Button(p.103,리니어레이아웃)</string>
+    <string name="goSchoolHome">떡볶이 먹기</string>
+    <string name="calling911">피자 먹기</string>
+    <string name="openPhoto">갤러리 열기</string>
+    <string name="back">돌아가기</string>
+</resources>
